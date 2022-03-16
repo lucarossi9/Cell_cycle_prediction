@@ -2,9 +2,9 @@
 
 * This project has been carried out in collaboration with the **laboratory of computational biology**.
 
-* The work has been a joint work of all the members. **We have always worked all in the same computer at the same time.**
+* The work has been a joint work of all the members.
 
-* ### Here you can find the link to the [Website](https://lucarossi9.github.io/statistical_computation_4_website/)
+* ### Here you can find the link to the [Website](https://lucarossi9.github.io/statistical_computation_4_website/) for some explanations about the project.
 
 * ### Datasets:  [McDavid](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003696#s4); [CHLA9](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146221)
 
