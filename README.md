@@ -1,10 +1,12 @@
 # Cell cycle prediction, an unsupervised approach
 
-* Project in collaboration with the [laboratory of computational biology](https://www.epfl.ch/labs/naef-lab/)
+* Project in collaboration with the [laboratory of computational biology](https://www.epfl.ch/labs/naef-lab/).
+
+* A poster is available in the repo for a general understanding.
 
 * The results and discussions are available at the following [Website](https://lucarossi9.github.io/statistical_computation_4_website/).
 
-* Datasets:  [McDavid](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003696#s4); [CHLA9](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146221)
+* Datasets:  [McDavid](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003696#s4); [CHLA9](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146221).
 
 ## Abstract
 
