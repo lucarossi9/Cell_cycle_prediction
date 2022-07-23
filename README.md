@@ -12,14 +12,15 @@ Advances in omics technologies make it possible to study cellular dynamics, prov
 
 # Results
 
-Table summary to compare our result with previous approaches:
+Table summary to compare our result with previous approaches. The accuracies are reported below. 
+Our models are GPLVM, residual autoencoders, the others are the main models employed in previous academic research.
 
 |                      | pc3 dataset | mb dataset | H9 dataset |
 |----------------------|-------------|------------|------------|
 | GPLVM                |  **0.802**       | 0.763      | 0.629      |
-| Cyclum model         | 0.793       | 0.779      | 0.593      |
+| Cyclum model         | 0.793       | **0.779**      | 0.593      |
 | PCA                  | 0.448       | 0.482      | 0.489      |
 | oscope               | 0.504       | 0.401      | 0.458      |
 | reCAT                | 0.695       | 0.591      | 0.617      |
 | Cyclops              | 0.446       | 0.395      | 0.515      |
-| Residual autoencoder | 0.759       | 0.742      | 0.648      |
+| Residual autoencoder | 0.759       | 0.742      | **0.648**      |
